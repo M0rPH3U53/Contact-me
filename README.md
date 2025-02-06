@@ -1,5 +1,3 @@
-# Contact
-
 # Olvid
 
 ![Capture du 2025-02-06 22-05-15](https://github.com/user-attachments/assets/c672cdcc-2f7b-4def-9eaf-d8ec3d8106f5)
